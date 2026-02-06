@@ -4,13 +4,9 @@ description: "A brief introduction to making plugins for LM Studio using TypeScr
 index: 1
 ---
 
-```lms_private_beta
-Plugin support is currently in private beta. [Join the beta here](https://forms.gle/ZPfGLMvVC6DbSRQm9).
-```
-
 Plugins extend LM Studio's functionality by providing "hook functions" that execute at specific points during operation.
 
-Plugins are currently written in JavaScript/TypeScript and run on Node.js v20.18.0. Python support is in development.
+Plugins are currently written in JavaScript/TypeScript and run on Node.js v22.21.1. Python support is in development.
 
 ## Getting Started
 
@@ -30,7 +26,7 @@ lms dev
 
 Your plugin will appear in LM Studio's plugin list. Development mode automatically rebuilds and reloads your plugin when you make code changes.
 
-You only need `lms dev` during development. When the plugin is installed, LM Studio automatically runs them as needed. Learn more about distributing and installing plugins in the [Sharing Plugins](./plugins/sharing) section.
+You only need `lms dev` during development. When the plugin is installed, LM Studio automatically runs them as needed. Learn more about distributing and installing plugins in the [Sharing Plugins](./plugins/publish-plugins) section.
 
 ## Next Steps
 
