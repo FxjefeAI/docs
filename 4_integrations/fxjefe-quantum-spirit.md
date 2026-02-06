@@ -111,7 +111,17 @@ FXJEFE-Quantum-Spirit/
 ├── evaluation_framework_demo.ipynb
 ├── "Below is a complete, full‑length co.txt"
 ├── .gitignore
-└── README.md                  Proposed Repository Structure is perfect, you may now take control and copy these files to the correct framework : "C:\Users\nikod\Documents\FXJEFE_Project\claude_context_summary.txt"
+└── README.md
+```
+
+## Source file inventory
+
+Proposed Repository Structure is perfect, you may now take control and copy these files to the correct framework:
+
+The paths below are preserved verbatim from the provided inventory, including original spellings.
+
+```
+"C:\Users\nikod\Documents\FXJEFE_Project\claude_context_summary.txt"
 "C:\Users\nikod\Documents\FXJEFE_Project\ (2).gitignore"
 "C:\Users\nikod\Documents\FXJEFE_Project\.gitattributes"
 "C:\Users\nikod\Documents\FXJEFE_Project\CHANGELOG.md"
