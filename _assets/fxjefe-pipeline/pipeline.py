@@ -273,12 +273,14 @@ def step_model_predictions(cfg: PipelineConfig) -> StepResult:
         result.status = StepStatus.SKIPPED
         return result
 
-    if hasattr(mod, "main"):
-        mod.main()
-    elif hasattr(mod, "predict"):
+    if hasattr(mod, "predict"):
         mod.predict()
+    elif hasattr(mod, "generate_signals"):
+        mod.generate_signals()
     elif hasattr(mod, "run"):
         mod.run()
+    elif hasattr(mod, "main"):
+        mod.main()
 
     result.status = StepStatus.SUCCESS
     return result
