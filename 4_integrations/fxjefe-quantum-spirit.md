@@ -92,7 +92,7 @@ FXJEFE-Quantum-Spirit/
 │   │   └── tracing_wrapper.py
 │   ├── agents/                       # AI agents
 │   │   ├── ai_agentic_agent.py
-│   │   └── FXJEFE_MASTER_CONTROL.py
+│   │   ├── FXJEFE_MASTER_CONTROL.py
 │   │   └── FXJEFE_MASTER_CONTROL_FINAL.py
 │   └── utils/                        # Utilities & fixes
 │       ├── path_resolver.py
@@ -113,6 +113,8 @@ FXJEFE-Quantum-Spirit/
 ├── .gitignore
 └── README.md
 ```
+
+Note: The structure above is transcribed verbatim from the provided inventory, including original spellings and file naming.
 
 ## Source file inventory
 
@@ -203,7 +205,8 @@ The paths below are preserved verbatim from the provided inventory, including or
 "C:\Users\nikod\Documents\FXJEFE_Project\fxjefe_sentiment_server.py"
 "C:\Users\nikod\Documents\FXJEFE_Project\fxjefe_sentiment_server777.py"
 "C:\Users\nikod\Documents\FXJEFE_Project\format_all_python_files.py"
-"C:\Users\nikod\Documents\FXJEFE_Project\SETUP_GUIDE.md" "C:\Users\nikod\Documents\FXJEFE_Project\Untitled-1.js"
+"C:\Users\nikod\Documents\FXJEFE_Project\SETUP_GUIDE.md"
+"C:\Users\nikod\Documents\FXJEFE_Project\Untitled-1.js"
 "C:\Users\nikod\Documents\FXJEFE_Project\config.json"
 "C:\Users\nikod\Documents\FXJEFE_Project\FXJEFElogtxt.txt"
 "C:\Users\nikod\Documents\FXJEFE_Project\nul"
